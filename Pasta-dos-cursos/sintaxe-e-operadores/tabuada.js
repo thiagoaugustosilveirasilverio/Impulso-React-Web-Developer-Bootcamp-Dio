@@ -11,4 +11,4 @@ function tabuada(num1, num2){
     
 }
 
-console.log(tabuada);
+console.log(tabuada(2, 2));
