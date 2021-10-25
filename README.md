@@ -9,7 +9,7 @@ Repositório para guardar todos os conteúdos feitos durante o bootcamp ***Impul
 
 # Alguns links usados
 
-> Editor de Texto: VS Code <br>
+> Editor de Texto: [VS Code](https://code.visualstudio.com) <br>
 > Extensão para servir as páginas localmente: Live Server
 
 
