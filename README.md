@@ -5,6 +5,11 @@ Repositório para guardar todos os conteúdos feitos durante o bootcamp ***Impul
 > - [Digital Innovation One-Dio](https://web.digitalinnovation.one/home)<br>
 ![Dio!](images/dio-white.png "Dio")<br>
 > - [Impulso](https://impulso.network/)<br>
-![Impulso!](images/Impulso-React.svg "Impulso")
+![Impulso!](images/Impulso-React.svg "Impulso")<br>
+
+Alguns links usados
+
+> Editor de Texto: VS Code <br>
+Extensão para servir as páginas localmente: Live Server
 
 
