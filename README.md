@@ -7,9 +7,9 @@ Repositório para guardar todos os conteúdos feitos durante o bootcamp ***Impul
 > - [Impulso](https://impulso.network/)<br>
 ![Impulso!](images/Impulso-React.svg "Impulso")<br>
 
-Alguns links usados
+# Alguns links usados
 
 > Editor de Texto: VS Code <br>
-Extensão para servir as páginas localmente: Live Server
+> Extensão para servir as páginas localmente: Live Server
 
 
