@@ -10,6 +10,6 @@ Repositório para guardar todos os conteúdos feitos durante o bootcamp ***Impul
 # Alguns links usados
 
 > Editor de Texto: [VS Code](https://code.visualstudio.com) <br>
-> Extensão para servir as páginas localmente: Live Server
+> Extensão para servir as páginas localmente: [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
 
